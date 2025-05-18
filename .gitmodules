@@ -1,3 +1,4 @@
 [submodule "nodejs-microservices"]
 	path = nodejs-microservices
 	url = https://github.com/adriandarian/nodejs-microservices.git
+	branch = "master"
